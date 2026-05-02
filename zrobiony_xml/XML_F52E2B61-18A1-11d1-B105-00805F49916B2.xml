@@ -1,0 +1,69 @@
+﻿<Faktura>
+  <Naglowek>
+    <KodFormularza kodSystemowy="FA (3)" wersjaSchemy="1-0E">FA</KodFormularza>
+    <WariantFormularza>3</WariantFormularza>
+    <DataWytworzeniaFa>2026-05-02T12:28:44Z</DataWytworzeniaFa>
+  </Naglowek>
+  <Podmiot1>
+    <DaneIdentyfikacyjne>
+      <NIP>1111111111</NIP>
+      <Nazwa>Moja Firma Sp. z o.o.</Nazwa>
+    </DaneIdentyfikacyjne>
+    <Adres>
+      <KodKraju>PL</KodKraju>
+      <AdresL1>ul. Wiejska 4/6, 00-902 Warszawa</AdresL1>
+    </Adres>
+  </Podmiot1>
+  <Podmiot2>
+    <DaneIdentyfikacyjne>
+      <NIP>2222222222</NIP>
+    </DaneIdentyfikacyjne>
+    <Adres>
+      <KodKraju>PL</KodKraju>
+      <AdresL1>ul. Wiejska 4/6, 00-902 Warszawa</AdresL1>
+    </Adres>
+    <JST>2</JST>
+    <GV>2</GV>
+  </Podmiot2>
+  <Fa>
+    <KodWaluty>PLN</KodWaluty>
+    <P_1>2026-05-02</P_1>
+    <P_2>F/001/2026</P_2>
+    <P_15>123.00</P_15>
+    <Adnotacje>
+      <P_16>2</P_16>
+      <P_17>2</P_17>
+      <P_18>2</P_18>
+      <P_18A>2</P_18A>
+      <Zwolnienie>
+        <P_19N>1</P_19N>
+      </Zwolnienie>
+      <NoweSrodkiTransportu>
+        <P_22N>1</P_22N>
+      </NoweSrodkiTransportu>
+      <P_23>2</P_23>
+      <PMarzy>
+        <P_PMarzyN>1</P_PMarzyN>
+      </PMarzy>
+    </Adnotacje>
+    <RodzajFaktury>VAT</RodzajFaktury>
+    <FaWiersz>
+      <NrWierszaFa>1</NrWierszaFa>
+      <P_7>kg</P_7>
+      <P_8A>Konsultacje techniczne KSeF</P_8A>
+      <P_8B>2.000000</P_8B>
+      <P_9A>40.00000000</P_9A>
+      <P_11>80.00</P_11>
+      <P_12>23</P_12>
+    </FaWiersz>
+    <FaWiersz>
+      <NrWierszaFa>2</NrWierszaFa>
+      <P_7>time</P_7>
+      <P_8A>Analiza dokumentacji API</P_8A>
+      <P_8B>1.000000</P_8B>
+      <P_9A>20.00000000</P_9A>
+      <P_11>20.00</P_11>
+      <P_12>23</P_12>
+    </FaWiersz>
+  </Fa>
+</Faktura>

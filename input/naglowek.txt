@@ -1,0 +1,2 @@
+Raw_NIP_Sprzedawcy;Raw_Nazwa_Sprzedawcy;Raw_Kod_kraju_Sprzedawcy;Raw_Adres_Sprzedawcy;Raw_NIP_Nabywcy;Raw_kod_kraju_nabywcy;Raw_Adres_Nabywcy;Raw_kod_waluty;Raw_DataWystawienia;Raw_NumerFaktury;Raw_KwotaNetto;Raw_KwotaVat;Raw_KwotaBrutto;Raw_RodzajFaktury
+1111111111;Moja Firma Sp. z o.o.;PL;ul. Wiejska 4/6, 00-902 Warszawa;2222222222;PL;ul. Wiejska 4/6, 00-902 Warszawa;PLN;2026-05-02;F/002/2026;100.00;23.00;123.00;VAT
